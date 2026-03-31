@@ -12,3 +12,6 @@ The repo contains 3 files:
 1. Project Initiation talks about what the project is meant to be, and the general idea of what goals it should achieve to sell the idea to stakeholders
 2. Functional Requirements is meant to break down every main task that is needed to be achieved to be able to have a working product.
 3. Test Cases is meant to look think of all test examples and cases to ensure that the functional requirements are implemented in an intended way. This looks at edge cases, and any clear cases to make sure that the outcomes of each requirement is truly correct.
+
+
+Disclaimer: This project was worked on in a group of 4, but the other 3 members were blanked out and anonymized. 
